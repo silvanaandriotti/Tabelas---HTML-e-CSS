@@ -6,7 +6,7 @@ table, th, td {
     font-size: 30px;
     background-color: beige;
     border-color: brown;
-    margin-left: 600px;
+   
    
 }
 
@@ -21,11 +21,12 @@ table, td {
 h1 {
     font-family: sans-serif;
     font-size: 50px;
-    margin-top: 250px;
+    margin-top: 25px;
     margin-left: 110px;
 }
 
-body {
-    text-align: center;
-    align-self: center;
+h2 {
+    margin-left: 350px;
+    font-family: sans-serif;
+    font-size: 30px;
 }
